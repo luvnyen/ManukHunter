@@ -1,0 +1,69 @@
+﻿  AmmoUpItem.cpp
+  Bullet.cpp
+  Enemy.cpp
+  FastEnemy.cpp
+  FatEnemy.cpp
+  FireSpeedDownItem.cpp
+  FireSpeedUpItem.cpp
+  Game.cpp
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(245,76): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(266,80): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(451,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(452,30): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(453,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(457,28): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(458,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(459,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(774,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(787,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(798,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(800,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(861,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(872,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(885,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(947,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Manuk Hunter\Game.cpp(949,21): warning C4018: '<': signed/unsigned mismatch
+  Item.cpp
+  MovingObject.cpp
+  Object.cpp
+  Player.cpp
+  RegularEnemy.cpp
+  Source.cpp
+  Generating code
+  24 of 608 functions ( 3.9%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Manuk Hunter.vcxproj -> C:\Users\Jeffery Tanudihardjo\Desktop\Manuk Hunter\Release\Manuk Hunter.exe
