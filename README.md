@@ -9,6 +9,7 @@ Simple bird shooting game made with C++ and [SFML](https://www.sfml-dev.org/) as
 ![image](https://user-images.githubusercontent.com/56993480/145032831-a05c7641-fdeb-4ddb-bdcd-95f2445b92a9.png)
 ### Play Scene
 ![image](https://user-images.githubusercontent.com/56993480/145034446-e942d874-4143-41a4-ad1a-681d308d5634.png)
+![home](https://user-images.githubusercontent.com/56993480/145036376-e463e900-e426-40dc-b933-30a9e404fd86.png)
 ![image](https://user-images.githubusercontent.com/56993480/145034472-dc515749-1989-4cfc-a368-8ecefc605533.png)
 ### Pause Scene
 ![image](https://user-images.githubusercontent.com/56993480/145034873-7af52a5c-ebcb-41e0-9358-37717e44b7e9.png)
