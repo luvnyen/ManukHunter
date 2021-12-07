@@ -1,4 +1,4 @@
-# ManukHunter
+# Manuk Hunter
 Simple bird shooting game made with C++ and [SFML](https://www.sfml-dev.org/) as a final project for Object-Oriented Programming course at Petra Christian University inspired by [Shoot the Zombirds](https://play.google.com/store/apps/details?id=pl.idreams.ShootTheZombirds&hl=en&gl=US) game.
 
 ## Screenshots
